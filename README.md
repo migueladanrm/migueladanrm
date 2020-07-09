@@ -1,5 +1,21 @@
-### Hi there 👋
+### Miguel Rivas — @migueladanrm
+Hi, I'm a Computer Engineering student at Costa Rica Instite of Technology.
 
+## Skills
+I have experience in...<br>
+✔ .NET technologies <br>
+✔ Android - Java & Kotlin<br>
+✔ Node.js - Backend development<br>
+✔ Relational databases - SQL Server<br>
+✔ Server management - Linux & Windows Server<br>
+
+## About me
+☕ Coffee lover<br>
+🎶 Electronic music<br>
+🌌 Passionate about science
+
+## Get in touch
+- LinkedIn: [linkedin.com/in/migueladanrm](https://linkedin.com/in/migueladanrm)
 <!--
 **migueladanrm/migueladanrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
