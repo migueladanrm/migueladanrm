@@ -1,12 +1,12 @@
 ### Miguel Rivas — @migueladanrm
-Hi, I'm a Computer Engineering student at Costa Rica Instite of Technology.
+Hi, I'm a Computer Engineering student at Costa Rica Institute of Technology.
 
 ## Skills
 I have experience in...<br>
 ✔ .NET technologies <br>
 ✔ Android - Java & Kotlin<br>
 ✔ Node.js - Backend development<br>
-✔ Relational databases - SQL Server<br>
+✔ Relational databases - PostgreSQL & SQL Server<br>
 ✔ Server management - Linux & Windows Server<br>
 
 ## About me
