@@ -2,6 +2,7 @@
 Computer Engineer
 
 ## Skills
+
 ✔ .NET <br>
 ✔ Android - Java & Kotlin<br>
 ✔ Node.js - Backend development<br>
