@@ -5,8 +5,10 @@ Computer Engineer
 
 ✔ .NET <br>
 ✔ Android - Java & Kotlin<br>
-✔ Node.js - Backend development<br>
-✔ React - TS/Chakra-UI/MUI/<br>
+✔ JavaScript/TypeScript<br>
+✔ Node.js - Express/Nest<br>
+✔ React - Chakra-UI/MUI<br>
+✔ Vue/Nuxt<br>
 ✔ Relational databases - PostgreSQL & SQL Server<br>
 ✔ Server management - Linux & Windows Server<br>
 ✔ CI/CD - Containers/Unit Testing/GitLab<br>
